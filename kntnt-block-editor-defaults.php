@@ -2,15 +2,16 @@
 
 /**
  * @wordpress-plugin
- * Plugin Name:     Kntnt Block Editor Defaults
- * Plugin URI:      https://github.com/Kntnt/kntnt-block-editor-defaults
- * Description:     Provides defaults for featured image, title and excerpt in the block editor.
- * Version:         1.0.0
- * Author:          Thomas Barregren
- * Author URI:      https://www.kntnt.com/
- * License:         GPL-3.0+
- * License URI:     http://www.gnu.org/licenses/gpl-3.0.txt
- * Requires PHP:    8.3+
+ * Plugin Name:       Kntnt Block Editor Defaults
+ * Plugin URI:        https://github.com/Kntnt/kntnt-block-editor-defaults
+ * Description:       Provides defaults for featured image, title and excerpt in the block editor.
+ * Version:           1.0.0
+ * Requires at least: 5.0
+ * Requires PHP:      7.4
+ * Author:            Thomas Barregren
+ * Author URI:        https://www.kntnt.com/
+ * License:           GPL-3.0+
+ * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
  */
 
 declare( strict_types=1 );
